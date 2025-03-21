@@ -1,3 +1,6 @@
+# SQL Queries
+This repository contains SQL queries.
+
 CREATE DATABASE energy_analysis;
 
 -- 1. Data Cleaning
